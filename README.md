@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about software
 - 📫 How to reach me danieldosdr@gmail.com
 
-## Fronend
+## Frontend
 
 - HTML
 - CSS
@@ -13,10 +13,10 @@
 
 ## Backend
 
-- Java
+- Java (POO, Programación funcional, JPA)
+- Spring web
 - SQL
-- Python
-- PHP
+
 
 ## DevOps
 - Git
